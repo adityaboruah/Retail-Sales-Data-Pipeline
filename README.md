@@ -1,2 +1,15 @@
-# Retail-Sales-Data-Pipeline
-Automated ETL pipeline using Power Query to clean and model 7+ retail data sources.
+# 🛒 Retail Sales Data Pipeline (ETL)
+
+## Project Overview
+This project demonstrates an automated ETL (Extract, Transform, Load) pipeline. I transformed 7 fragmented raw CSV sources into a unified, relational data model using **Power Query**.
+
+## 📥 Project Files & Download
+Due to the large dataset size (35MB+), the final Excel model is hosted on Google Drive:
+👉 **[Download the Full Project ZIP Here](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)**
+*(Includes: Raw CSVs + Cleaned Excel Data Model)*
+
+## 🛠️ Data Transformation Highlights
+* **Appending Data:** Merged `Transactions_1997` and `Transactions_1998` into a master sales table.
+* **Data Cleaning:** Standardized `Customer` and `Store` metadata for accurate geographic reporting.
+* **Advanced Logic:** Merged `Returns` with `Products` to automate return value calculations.
+* **One-Click Refresh:** The entire pipeline updates instantly when new data is added.
