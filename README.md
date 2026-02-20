@@ -5,8 +5,8 @@ This project demonstrates an automated ETL (Extract, Transform, Load) pipeline. 
 
 ## 📥 Project Files & Download
 Due to the large dataset size (35MB+), the final Excel model is hosted on Google Drive:
-👉 **[Download the Full Project ZIP Here](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)**
-*(Includes: Raw CSVs + Cleaned Excel Data Model)*
+👉 **[Download the Full Project Here](https://docs.google.com/spreadsheets/d/1R_OvuaZTZhfQylVv_mXoMw9vC9rdKcxw/edit?usp=sharing&ouid=111827717338175736791&rtpof=true&sd=true)**
+*(Includes: Cleaned Excel Data Model)*
 
 ## 🛠️ Data Transformation Highlights
 * **Appending Data:** Merged `Transactions_1997` and `Transactions_1998` into a master sales table.
